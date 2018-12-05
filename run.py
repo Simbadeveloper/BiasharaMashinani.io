@@ -5,4 +5,4 @@ run the app
 from app import app #import app from app
 
 if __name__ == '__main__':
-    app.run(debug=True) #debug false on development
+    app.run(debug=False) #debug false on development
