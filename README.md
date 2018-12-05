@@ -9,7 +9,7 @@
 
 # BiasharaMashinani
 
-# Rresource
+##  Resources
 [Coveralls](https://code-maven.com/coverall-with-python-minimal-setup)<br>
 
 [Deploy Heroku](https://pybit.es/deploy-flask-heroku.html)
